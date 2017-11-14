@@ -17,3 +17,6 @@ Thumbs.db
 # Wordpress
 wp-content/*
 # !wp-content/themes
+
+# Machine files
+vendor
